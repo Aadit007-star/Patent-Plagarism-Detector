@@ -1,1 +1,2 @@
-# Patent-Plagarism-Detector
+# Patent Plagarism
+ patent plagarism checker
